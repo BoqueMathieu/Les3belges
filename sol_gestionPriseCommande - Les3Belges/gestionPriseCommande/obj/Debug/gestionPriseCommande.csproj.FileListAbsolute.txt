@@ -1,0 +1,110 @@
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AjoutClient.resources
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.GestionCommande.resources
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.Properties.Resources.resources
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AlerteCodePromoInvalide.resources
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AlerteStockInsuffisant.resources
+Z:\2nd année\Les 3Belges\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.Sommaire.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AjoutClient.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AlerteCodePromoInvalide.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.AlerteStockInsuffisant.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.GestionCommande.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.Properties.Resources.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.Sommaire.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.GestionCommande.resources
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.Properties.Resources.resources
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV0\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.GestionCommande.resources
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.menuPrincipal.resources
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.Properties.Resources.resources
+C:\Users\Brigitte\Google Drive\Travail\2016-2017\PPE\L3B\L3BV1\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.GestionCommande.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.menuPrincipal.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.Properties.Resources.resources
+C:\Users\GOMEZ\Desktop\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.AssignerInventoriste.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerUnInventoriste.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.GestionCommande.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.menuPrincipal.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.ModifierInformationsInventoriste.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.Properties.Resources.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.SupprimerUnInventoriste.resources
+Z:\2nd année\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerInventaire.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.AssignerInventoriste.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerInventaire.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerUnInventoriste.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.GestionCommande.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.menuPrincipal.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.ModifierInformationsInventoriste.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.Properties.Resources.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.SupprimerUnInventoriste.resources
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+C:\Users\mathi\Desktop\Les3belges\ScriptBDD clean\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe.config
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.exe
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csprojResolveAssemblyReference.cache
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.AssignerInventoriste.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerInventaire.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.CreerUnInventoriste.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.GestionCommande.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.menuPrincipal.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.ModifierInformationsInventoriste.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.Properties.Resources.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.SupprimerUnInventoriste.resources
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\gestionPriseCommande.csproj.GenerateResource.Cache
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.exe
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\gestionPriseCommande.pdb
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\Oracle.DataAccess.dll
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\bin\Debug\ProjLibraryClassReq.dll
+Z:\2nd année\Projet finaux\E4\Production\Les3belges\sol_gestionPriseCommande - Les3Belges\gestionPriseCommande\obj\Debug\les3belges.PrimeInventoriste.resources

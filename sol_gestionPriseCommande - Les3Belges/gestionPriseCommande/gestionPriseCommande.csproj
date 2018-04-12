@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CCF018F-0F3D-4E4B-B223-DD671144534E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>les3belges</RootNamespace>
+    <AssemblyName>gestionPriseCommande</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=2.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="ProjLibraryClassReq">
+      <HintPath>.\ProjLibraryClassReq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssignerInventoriste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignerInventoriste.Designer.cs">
+      <DependentUpon>AssignerInventoriste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreerInventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreerInventaire.Designer.cs">
+      <DependentUpon>CreerInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreerUnInventoriste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreerUnInventoriste.Designer.cs">
+      <DependentUpon>CreerUnInventoriste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boiteOutil.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Commande.cs" />
+    <Compile Include="GestionCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionCommande.Designer.cs">
+      <DependentUpon>GestionCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventaire.cs" />
+    <Compile Include="Inventoriste.cs" />
+    <Compile Include="LigneCommandeClient.cs" />
+    <Compile Include="menuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuPrincipal.Designer.cs">
+      <DependentUpon>menuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierInformationsInventoriste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierInformationsInventoriste.Designer.cs">
+      <DependentUpon>ModifierInformationsInventoriste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Participer.cs" />
+    <Compile Include="Passerelle.cs" />
+    <Compile Include="PrimeInventoriste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrimeInventoriste.Designer.cs">
+      <DependentUpon>PrimeInventoriste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produit.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Realiser.cs" />
+    <Compile Include="SupprimerUnInventoriste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupprimerUnInventoriste.Designer.cs">
+      <DependentUpon>SupprimerUnInventoriste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ville.cs" />
+    <EmbeddedResource Include="AssignerInventoriste.resx">
+      <DependentUpon>AssignerInventoriste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreerInventaire.resx">
+      <DependentUpon>CreerInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreerUnInventoriste.resx">
+      <DependentUpon>CreerUnInventoriste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionCommande.resx">
+      <DependentUpon>GestionCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuPrincipal.resx">
+      <DependentUpon>menuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierInformationsInventoriste.resx">
+      <DependentUpon>ModifierInformationsInventoriste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimeInventoriste.resx">
+      <DependentUpon>PrimeInventoriste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupprimerUnInventoriste.resx">
+      <DependentUpon>SupprimerUnInventoriste.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagramMetier.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClassDiagramTechnique.cd" />
+    <None Include="Resources\Poubelle3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
